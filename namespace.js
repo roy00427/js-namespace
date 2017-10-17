@@ -17,7 +17,7 @@ var ROY00427 = {
         }
         function F1(ev)  {
             this.style.backgroundColor = "aqua";
-            this.style.backgroundColor = "Blue";
+            this.style.borderColor = "orange";
         }
     }
 }
