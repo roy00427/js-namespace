@@ -16,8 +16,8 @@ var ROY00427 = {
             this.classList.toggle("highlight");
         }
         function F1(ev)  {
-            this.style.backgroundColor = "aqua";
-            this.style.borderColor = "orange";
+            this.style.backgroundColor = "#F783D2";
+            this.style.borderColor = "#F76D33";
         }
     }
 }
